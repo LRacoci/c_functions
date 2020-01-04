@@ -1,0 +1,3 @@
+/home/lracoci/Documents/Personal/projects/c_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lracoci/Documents/Personal/projects/c_functions/cmake-build-debug/CMakeFiles/c_functions.dir
+/home/lracoci/Documents/Personal/projects/c_functions/cmake-build-debug/CMakeFiles/edit_cache.dir
