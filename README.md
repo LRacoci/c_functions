@@ -1,2 +1,2 @@
-# c_functions
-C mathematical functions
+# C Helper Functions
+Implementation of mathematical functions in c
